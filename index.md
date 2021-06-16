@@ -1,6 +1,6 @@
 
 
-#	Gendered Cities
+#
 
 ## Dolores Gutiérrez-Mora and Daniel Oto-Peralías
 
