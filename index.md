@@ -6,5 +6,5 @@
 
 ### Dolores Gutiérrez-Mora and Daniel Oto-Peralías
 
-[read abstract](https://github.com/otoperalias/GenderedCities/blob/main/Abstract.md)
+[read abstract](https://https://otoperalias.github.io/GenderedCities/Abstract.md)
 
